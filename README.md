@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Linear Regression Data Science ML / IA</h1>
 
+<h2 align="center" id="title">Sarah Ribeiro da Silva - RM 97747</h2>
+
 <p id="description">Neste projeto, embarcamos em uma jornada fascinante para explorar os domínios da regressão linear utilizando as poderosas ferramentas fornecidas pelo scikit-learn, uma biblioteca amplamente valorizada por entusiastas de inteligência artificial e aprendizado de máquina. Com um conjunto de dados repleto de potenciais insights, nos aprofundamos na tarefa de comparar duas variáveis essenciais.
 <br><br>
 Utilizando funções robustas como `LinearRegression()` e `train_test_split()`, conduzimos uma análise de dados meticulosa, buscando padrões e correlações que pudessem iluminar nosso entendimento. A cada iteração, nos aproximamos mais de desvendar os segredos escondidos dentro dos dados, guiados pela curiosidade e pela precisão dos algoritmos de aprendizado de máquina.
